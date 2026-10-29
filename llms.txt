@@ -1,14 +1,14 @@
 # Shraddha Karanth
 
-> Shraddha Karanth is a food scientist with a Ph.D. in Food Science from the University of Maryland, College Park (2021), followed by post-doctoral research there (2022 to 2024). Research areas are food safety, food microbiology, and microbial risk assessment, with machine learning and statistics applied to microbial whole genome sequencing data. 13 journal articles and 2 book chapters with 983 citations on Google Scholar as of October 2026.
+> Shraddha Karanth is a food scientist and aspiring teacher-scholar with a Ph.D. in Food Science from the University of Maryland, College Park (2021), followed by post-doctoral research there (2022 to 2024). Research areas are food safety, food microbiology, and microbial risk assessment, with machine learning and statistics applied to microbial whole genome sequencing data. 13 journal articles and 2 book chapters with 983 citations on Google Scholar as of October 2026.
 
 ## Pages
 
 - [Home](https://shraddhakaranth.github.io/): biography, research impact summary, and contact details
 - [Publications](https://shraddhakaranth.github.io/publications/): journal articles and book chapters with authors, venues, years, and citation counts
-- [Awards and recognition](https://shraddhakaranth.github.io/awards/): university research awards, about $700K in grant funding, and international presentations
-- [Academic background and experience](https://shraddhakaranth.github.io/academic/): degrees from the University of Maryland, Lund University, and Visvesvaraya Technological University, plus post-doctoral, research, teaching, and editing roles
-- [Certifications and skills](https://shraddhakaranth.github.io/certifications/): whole genome sequencing, PCQI, generative AI reporting, and core expertise
+- [Teaching](https://shraddhakaranth.github.io/teaching/): teaching statement, teaching assistant roles in four University of Maryland courses, and mentoring of undergraduate and graduate students
+- [Awards, fellowships, and grants](https://shraddhakaranth.github.io/awards/): awards, fellowships, and travel grants from the University of Maryland, the Society for Risk Analysis, and the International Association for Food Protection, 2017 to 2023
+- [Qualifications](https://shraddhakaranth.github.io/qualifications/): degrees from the University of Maryland, Lund University, and Visvesvaraya Technological University, post-doctoral, research, teaching, and editing roles, certifications (whole genome sequencing, PCQI, generative AI reporting), and core expertise
 - [Curriculum vitae](https://shraddhakaranth.github.io/cv/): download links for the full CV and the one-page CV
 
 ## Selected publications

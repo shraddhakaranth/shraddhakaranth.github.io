@@ -215,6 +215,14 @@ section h2::after,
     border-radius: 2px;
 }
 
+.page-intro {
+    max-width: 800px;
+    margin-bottom: 3rem;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #555;
+}
+
 .highlight-stats {
     background: linear-gradient(135deg, #f5f7fa 0%, #e6f3ff 100%);
     padding: 3rem 2rem;
